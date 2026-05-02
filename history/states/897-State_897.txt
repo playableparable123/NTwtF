@@ -1,0 +1,29 @@
+state = {
+	id = 897
+	name = "STATE_897"
+	manpower = 75000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = GOT
+		add_core_of = GOT
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2812 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 2812 1 }
+	}
+
+	provinces = {
+		2812
+	}
+}

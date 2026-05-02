@@ -1,0 +1,26 @@
+state = {
+	id = 909
+	name = "STATE_909"
+	manpower = 750000
+	state_category = town
+
+	history = {
+		owner = KON
+		add_core_of = KON
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			585 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 585 1 }
+	}
+
+	provinces = {
+		585 822 846 930 1394 1466 1689 2784 2803 378
+	}
+}

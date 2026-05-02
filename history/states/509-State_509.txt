@@ -1,0 +1,26 @@
+state = {
+	id = 509
+	name = "STATE_509"
+	manpower = 225000
+	state_category = town
+	resources = {
+		steel = 12
+		chromium = 11
+	}
+
+	history = {
+		owner = MEQ
+		add_core_of = MEQ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 691 1 }
+	}
+
+	provinces = {
+		691 1022 2292
+	}
+}

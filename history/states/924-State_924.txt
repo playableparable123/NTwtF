@@ -1,0 +1,25 @@
+state = {
+	id = 924
+	name = "STATE_924"
+	manpower = 150000
+	state_category = town
+	resources = {
+		oil = 3
+	}
+
+	history = {
+		owner = BAS
+		add_core_of = BAS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 48 1 }
+	}
+
+	provinces = {
+		48 2828
+	}
+}

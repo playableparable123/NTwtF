@@ -1,0 +1,22 @@
+state = {
+	id = 753
+	name = "STATE_753"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = YUG
+		add_core_of = YUG
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 1124 1 }
+	}
+
+	provinces = {
+		1124 1259 2572 2584
+	}
+}

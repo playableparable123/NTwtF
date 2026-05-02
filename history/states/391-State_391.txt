@@ -1,0 +1,26 @@
+state = {
+	id = 391
+	name = "STATE_391"
+	manpower = 375000
+	state_category = town
+
+	history = {
+		owner = SHE
+		add_core_of = SHE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1462 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1462 1 }
+	}
+
+	provinces = {
+		1462 1526 2133 2153 2165
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 524
+	name = "STATE_524"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = MEQ
+		add_core_of = MEQ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 964 1 }
+	}
+
+	provinces = {
+		964 1524 2332
+	}
+}

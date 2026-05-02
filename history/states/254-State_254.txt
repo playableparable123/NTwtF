@@ -1,0 +1,26 @@
+state = {
+	id = 254
+	name = "STATE_254"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = REV
+		add_core_of = REV
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			493 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 493 1 }
+	}
+
+	provinces = {
+		493 1206 3286
+	}
+}

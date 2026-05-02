@@ -1,0 +1,29 @@
+state = {
+	id = 279
+	name = "STATE_279"
+	manpower = 150000
+	state_category = town
+	resources = {
+		rubber = 2
+	}
+
+	history = {
+		owner = SEM
+		add_core_of = SEM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			3300 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 3300 1 }
+	}
+
+	provinces = {
+		3300 3302
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 1189
+	name = "STATE_1189"
+	manpower = 150000
+	state_category = town
+	resources = {
+		rubber = 8
+	}
+
+	history = {
+		owner = SEM
+		add_core_of = SEM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			465 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 465 1 }
+	}
+
+	provinces = {
+		465 788
+	}
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 646
+	name = "STATE_646"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = SAO
+		add_core_of = SAO
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			607 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 607 1 }
+	}
+
+	provinces = {
+		607 780 899 2473
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 928
+	name = "STATE_928"
+	manpower = 75000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = KON
+		add_core_of = KON
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 144 1 }
+	}
+
+	provinces = {
+		144
+	}
+}

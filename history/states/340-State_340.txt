@@ -1,0 +1,26 @@
+state = {
+	id = 340
+	name = "STATE_340"
+	manpower = 150000
+	state_category = town
+
+	history = {
+		owner = NFD
+		add_core_of = NFD
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1925 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1925 1 }
+	}
+
+	provinces = {
+		1925 2081
+	}
+}

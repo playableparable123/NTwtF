@@ -1,0 +1,25 @@
+state = {
+	id = 588
+	name = "STATE_588"
+	manpower = 225000
+	state_category = town
+	resources = {
+		tungsten = 3
+	}
+
+	history = {
+		owner = KED
+		add_core_of = KED
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 418 1 }
+	}
+
+	provinces = {
+		418 1626 2389
+	}
+}

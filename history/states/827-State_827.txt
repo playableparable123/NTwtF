@@ -1,0 +1,26 @@
+state = {
+	id = 827
+	name = "STATE_827"
+	manpower = 525000
+	state_category = town
+
+	history = {
+		owner = MEQ
+		add_core_of = MEQ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			36 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 36 1 }
+	}
+
+	provinces = {
+		36 533 1179 1544 1575 2691 2731
+	}
+}

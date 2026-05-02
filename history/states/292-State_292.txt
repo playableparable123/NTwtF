@@ -1,0 +1,29 @@
+state = {
+	id = 292
+	name = "STATE_292"
+	manpower = 75000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = ARC
+		add_core_of = ARC
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1274 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1274 1 }
+	}
+
+	provinces = {
+		1274
+	}
+}

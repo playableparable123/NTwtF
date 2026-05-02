@@ -1,0 +1,26 @@
+state = {
+	id = 470
+	name = "STATE_470"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = SUP
+		add_core_of = SUP
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1488 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 24 1 }
+	}
+
+	provinces = {
+		24 1146 1488 2255
+	}
+}

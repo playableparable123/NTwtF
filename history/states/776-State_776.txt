@@ -1,0 +1,25 @@
+state = {
+	id = 776
+	name = "STATE_776"
+	manpower = 225000
+	state_category = town
+	resources = {
+		oil = 15
+	}
+
+	history = {
+		owner = ARE
+		add_core_of = ARE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 949 1 }
+	}
+
+	provinces = {
+		949 1550 2590
+	}
+}

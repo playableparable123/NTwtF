@@ -1,0 +1,29 @@
+state = {
+	id = 711
+	name = "STATE_711"
+	manpower = 300000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = SOS
+		add_core_of = SOS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			255 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 10 1 }
+	}
+
+	provinces = {
+		10 255 266 422
+	}
+}

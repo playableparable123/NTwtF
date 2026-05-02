@@ -1,0 +1,22 @@
+state = {
+	id = 549
+	name = "STATE_549"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = GRA
+		add_core_of = GRA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 514 1 }
+	}
+
+	provinces = {
+		514 953 2320
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 387
+	name = "STATE_387"
+	manpower = 375000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 315 1 }
+	}
+
+	provinces = {
+		315 1749 2136 2147 2155
+	}
+}

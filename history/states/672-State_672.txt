@@ -1,0 +1,26 @@
+state = {
+	id = 672
+	name = "STATE_672"
+	manpower = 525000
+	state_category = town
+
+	history = {
+		owner = MAT
+		add_core_of = MAT
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1499 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 202 1 }
+	}
+
+	provinces = {
+		202 328 1499 1702 2470 2535 2550
+	}
+}

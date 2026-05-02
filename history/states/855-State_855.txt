@@ -1,0 +1,26 @@
+state = {
+	id = 855
+	name = "STATE_855"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = KHA
+		add_core_of = KHA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1061 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1051 1 }
+	}
+
+	provinces = {
+		1051 1061 2752 2767
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 308
+	name = "STATE_308"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = VAA
+		add_core_of = VAA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 865 1 }
+	}
+
+	provinces = {
+		865 1737 2019
+	}
+}

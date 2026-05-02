@@ -1,0 +1,29 @@
+state = {
+	id = 736
+	name = "STATE_736"
+	manpower = 300000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = SOS
+		add_core_of = SOS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1229 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1229 1 }
+	}
+
+	provinces = {
+		1229 2562 2574 2600
+	}
+}

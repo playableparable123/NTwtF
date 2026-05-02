@@ -1,0 +1,29 @@
+state = {
+	id = 770
+	name = "STATE_770"
+	manpower = 600000
+	state_category = town
+	resources = {
+		tungsten = 7
+	}
+
+	history = {
+		owner = YUG
+		add_core_of = YUG
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2709 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1099 1 }
+	}
+
+	provinces = {
+		1099 1546 2585 2615 2653 2675 2709 1659
+	}
+}

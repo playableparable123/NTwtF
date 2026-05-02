@@ -1,0 +1,26 @@
+state = {
+	id = 248
+	name = "STATE_248"
+	manpower = 75000
+	state_category = town
+
+	history = {
+		owner = FAC
+		add_core_of = FAC
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			512 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 512 1 }
+	}
+
+	provinces = {
+		512
+	}
+}

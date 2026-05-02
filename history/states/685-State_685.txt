@@ -1,0 +1,26 @@
+state = {
+	id = 685
+	name = "STATE_685"
+	manpower = 225000
+	state_category = town
+	resources = {
+		steel = 14
+		chromium = 6
+	}
+
+	history = {
+		owner = KED
+		add_core_of = KED
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 487 1 }
+	}
+
+	provinces = {
+		487 2495 2507
+	}
+}

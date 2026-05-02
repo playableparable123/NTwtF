@@ -1,0 +1,22 @@
+state = {
+	id = 953
+	name = "STATE_953"
+	manpower = 75000
+	state_category = town
+
+	history = {
+		owner = SAV
+		add_core_of = SAV
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 2880 1 }
+	}
+
+	provinces = {
+		2880
+	}
+}

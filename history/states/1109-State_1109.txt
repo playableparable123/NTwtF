@@ -1,0 +1,26 @@
+state = {
+	id = 1109
+	name = "STATE_1109"
+	manpower = 375000
+	state_category = town
+
+	history = {
+		owner = LOM
+		add_core_of = LOM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			318 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 318 1 }
+	}
+
+	provinces = {
+		318 1931 3121 3134 3136
+	}
+}

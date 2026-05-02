@@ -1,0 +1,26 @@
+state = {
+	id = 967
+	name = "STATE_967"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = GOT
+		add_core_of = GOT
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			969 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 29 1 }
+	}
+
+	provinces = {
+		29 969 2891 2896
+	}
+}

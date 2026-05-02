@@ -1,0 +1,22 @@
+state = {
+	id = 884
+	name = "STATE_884"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = ARE
+		add_core_of = ARE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 173 1 }
+	}
+
+	provinces = {
+		173 1563 2764 2791
+	}
+}

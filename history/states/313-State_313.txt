@@ -1,0 +1,26 @@
+state = {
+	id = 313
+	name = "STATE_313"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = VAA
+		add_core_of = VAA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			610 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 610 1 }
+	}
+
+	provinces = {
+		610 1212 1258
+	}
+}

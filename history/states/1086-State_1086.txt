@@ -1,0 +1,22 @@
+state = {
+	id = 1086
+	name = "STATE_1086"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = SSF
+		add_core_of = SSF
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 52 1 }
+	}
+
+	provinces = {
+		52 3081 3089 3098
+	}
+}

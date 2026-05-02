@@ -1,0 +1,29 @@
+state = {
+	id = 973
+	name = "STATE_973"
+	manpower = 600000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = SUR
+		add_core_of = SUR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			504 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 78 1 }
+	}
+
+	provinces = {
+		78 504 2917 2930 2922 2936 158 2938
+	}
+}

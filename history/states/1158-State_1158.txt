@@ -1,0 +1,29 @@
+state = {
+	id = 1158
+	name = "STATE_1158"
+	manpower = 300000
+	state_category = town
+	resources = {
+		rubber = 3
+	}
+
+	history = {
+		owner = SEO
+		add_core_of = SEO
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1503 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1503 1 }
+	}
+
+	provinces = {
+		1503 1681 3208 3219
+	}
+}

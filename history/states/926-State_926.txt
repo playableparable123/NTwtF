@@ -1,0 +1,29 @@
+state = {
+	id = 926
+	name = "STATE_926"
+	manpower = 525000
+	state_category = town
+	resources = {
+		oil = 7
+	}
+
+	history = {
+		owner = TIO
+		add_core_of = TIO
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			140 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 140 1 }
+	}
+
+	provinces = {
+		140 1186 1320 1932 2825 2827 2857
+	}
+}

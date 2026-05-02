@@ -1,0 +1,22 @@
+state = {
+	id = 401
+	name = "STATE_401"
+	manpower = 450000
+	state_category = town
+
+	history = {
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 195 1 }
+	}
+
+	provinces = {
+		195 295 1177 1460 1917 2145
+	}
+}

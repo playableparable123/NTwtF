@@ -1,0 +1,29 @@
+state = {
+	id = 927
+	name = "STATE_927"
+	manpower = 225000
+	state_category = town
+	resources = {
+		oil = 2
+	}
+
+	history = {
+		owner = YEE
+		add_core_of = YEE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			792 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 792 1 }
+	}
+
+	provinces = {
+		792 1594 2822
+	}
+}

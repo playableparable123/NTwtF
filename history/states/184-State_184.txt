@@ -1,0 +1,29 @@
+state = {
+	id = 184
+	name = "STATE_184"
+	manpower = 75000
+	state_category = town
+	resources = {
+		tungsten = 2
+	}
+
+	history = {
+		owner = ARA
+		add_core_of = ARA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1249 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1249 1 }
+	}
+
+	provinces = {
+		1249
+	}
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 333
+	name = "STATE_333"
+	manpower = 525000
+	state_category = town
+
+	history = {
+		owner = VAA
+		add_core_of = VAA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			431 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 431 1 }
+	}
+
+	provinces = {
+		431 769 1454 1733 2056 2059 2064
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 703
+	name = "STATE_703"
+	manpower = 375000
+	state_category = town
+	resources = {
+		tungsten = 7
+	}
+
+	history = {
+		owner = ZSI
+		add_core_of = ZSI
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2505 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1901 1 }
+	}
+
+	provinces = {
+		1901 2505 2523 2531 2554
+	}
+}

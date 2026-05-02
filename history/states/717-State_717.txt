@@ -1,0 +1,30 @@
+state = {
+	id = 717
+	name = "STATE_717"
+	manpower = 375000
+	state_category = town
+	resources = {
+		steel = 9
+		chromium = 5
+	}
+
+	history = {
+		owner = KED
+		add_core_of = KED
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1975 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 136 1 }
+	}
+
+	provinces = {
+		136 1775 1975 2517 2560
+	}
+}

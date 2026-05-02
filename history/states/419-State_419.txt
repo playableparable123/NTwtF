@@ -1,0 +1,22 @@
+state = {
+	id = 419
+	name = "STATE_419"
+	manpower = 150000
+	state_category = town
+
+	history = {
+		owner = SHE
+		add_core_of = SHE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 2186 1 }
+	}
+
+	provinces = {
+		2186 2206
+	}
+}

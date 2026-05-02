@@ -1,0 +1,26 @@
+state = {
+	id = 360
+	name = "STATE_360"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2104 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1450 1 }
+	}
+
+	provinces = {
+		1450 1945 2104 2114
+	}
+}

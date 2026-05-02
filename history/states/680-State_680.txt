@@ -1,0 +1,22 @@
+state = {
+	id = 680
+	name = "STATE_680"
+	manpower = 375000
+	state_category = town
+
+	history = {
+		owner = ZSI
+		add_core_of = ZSI
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 125 1 }
+	}
+
+	provinces = {
+		125 1059 2490 2510 2532
+	}
+}

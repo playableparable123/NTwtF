@@ -1,0 +1,25 @@
+state = {
+	id = 809
+	name = "STATE_809"
+	manpower = 225000
+	state_category = town
+	resources = {
+		tungsten = 7
+	}
+
+	history = {
+		owner = MEQ
+		add_core_of = MEQ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 74 1 }
+	}
+
+	provinces = {
+		74 2631 2662
+	}
+}

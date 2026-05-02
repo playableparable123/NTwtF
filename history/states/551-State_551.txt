@@ -1,0 +1,22 @@
+state = {
+	id = 551
+	name = "STATE_551"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = KED
+		add_core_of = KED
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 26 1 }
+	}
+
+	provinces = {
+		26 1292 2333
+	}
+}

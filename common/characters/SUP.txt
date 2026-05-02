@@ -1,0 +1,144 @@
+﻿characters = {
+
+	SUP_leader_despotism = {
+		name = SUP_leader_despotism
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+		}
+	}
+
+	SUP_leader_conservatism = {
+		name = SUP_leader_conservatism
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		country_leader = {
+			ideology = conservatism
+			traits = { }
+		}
+	}
+
+	SUP_leader_nazism = {
+		name = SUP_leader_nazism
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		country_leader = {
+			ideology = nazism
+			traits = { }
+		}
+	}
+
+	SUP_leader_marxism = {
+		name = SUP_leader_marxism
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		country_leader = {
+			ideology = marxism
+			traits = { }
+		}
+	}
+
+	SUP_field_marshal_1 = {
+		name = SUP_field_marshal_1
+		portraits = {
+			army = { large = GFX_Portrait_Europe_Generic_land_1 }
+		}
+		field_marshal = {
+			traits = { }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+
+	SUP_general_1 = {
+		name = SUP_general_1
+		portraits = {
+			army = { large = GFX_Portrait_Europe_Generic_land_2 }
+		}
+		corps_commander = {
+			traits = { }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+
+	SUP_admiral_1 = {
+		name = SUP_admiral_1
+		portraits = {
+			army = { large = GFX_Portrait_Europe_Generic_navy_1 }
+		}
+		navy_leader = {
+			traits = { }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			maneuvering_skill = 2
+			coordination_skill = 2
+		}
+	}
+
+	SUP_scientist_1 = {
+		name = SUP_scientist_1
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		scientist = {
+			skills = {
+				specialization_air = 2
+			}
+			traits = { }
+		}
+	}
+
+	SUP_scientist_2 = {
+		name = SUP_scientist_2
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		scientist = {
+			skills = {
+				specialization_industry = 2
+			}
+			traits = { }
+		}
+	}
+
+	SUP_scientist_3 = {
+		name = SUP_scientist_3
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		scientist = {
+			skills = {
+				specialization_naval = 2
+			}
+			traits = { }
+		}
+	}
+
+	SUP_scientist_4 = {
+		name = SUP_scientist_4
+		portraits = {
+			civilian = { large = GFX_Portrait_Europe_Generic_1 }
+		}
+		scientist = {
+			skills = {
+				specialization_army = 2
+			}
+			traits = { }
+		}
+	}
+
+}

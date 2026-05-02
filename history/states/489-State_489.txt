@@ -1,0 +1,26 @@
+state = {
+	id = 489
+	name = "STATE_489"
+	manpower = 375000
+	state_category = town
+	resources = {
+		steel = 6
+		chromium = 10
+	}
+
+	history = {
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 32 1 }
+	}
+
+	provinces = {
+		32 1008 2264 2283 2291
+	}
+}

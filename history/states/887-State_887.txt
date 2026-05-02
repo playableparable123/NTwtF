@@ -1,0 +1,26 @@
+state = {
+	id = 887
+	name = "STATE_887"
+	manpower = 525000
+	state_category = town
+
+	history = {
+		owner = TIO
+		add_core_of = TIO
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1381 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 485 1 }
+	}
+
+	provinces = {
+		485 955 1381 1727 1773 2823 2842
+	}
+}

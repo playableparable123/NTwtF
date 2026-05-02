@@ -1,0 +1,29 @@
+state = {
+	id = 912
+	name = "STATE_912"
+	manpower = 150000
+	state_category = town
+	resources = {
+		oil = 2
+	}
+
+	history = {
+		owner = SAV
+		add_core_of = SAV
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2826 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 893 1 }
+	}
+
+	provinces = {
+		893 2826
+	}
+}

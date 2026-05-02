@@ -1,0 +1,29 @@
+state = {
+	id = 979
+	name = "STATE_979"
+	manpower = 225000
+	state_category = town
+	resources = {
+		tungsten = 2
+	}
+
+	history = {
+		owner = ORA
+		add_core_of = ORA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			191 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 191 1 }
+	}
+
+	provinces = {
+		191 227 1030
+	}
+}

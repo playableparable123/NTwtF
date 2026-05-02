@@ -1,0 +1,26 @@
+state = {
+	id = 165
+	name = "STATE_165"
+	manpower = 150000
+	state_category = town
+
+	history = {
+		owner = KEM
+		add_core_of = KEM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			434 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 434 1 }
+	}
+
+	provinces = {
+		434 3108
+	}
+}

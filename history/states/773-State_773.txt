@@ -1,0 +1,26 @@
+state = {
+	id = 773
+	name = "STATE_773"
+	manpower = 375000
+	state_category = town
+
+	history = {
+		owner = MEQ
+		add_core_of = MEQ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2664 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1747 1 }
+	}
+
+	provinces = {
+		1747 1812 1915 2636 2664
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 115
+	name = "STATE_115"
+	manpower = 75000
+	state_category = town
+	resources = {
+		tungsten = 2
+	}
+
+	history = {
+		owner = YUG
+		add_core_of = YUG
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			3369 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 3369 1 }
+	}
+
+	provinces = {
+		3369
+	}
+}

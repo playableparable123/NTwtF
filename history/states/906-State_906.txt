@@ -1,0 +1,26 @@
+state = {
+	id = 906
+	name = "STATE_906"
+	manpower = 600000
+	state_category = town
+
+	history = {
+		owner = YEK
+		add_core_of = YEK
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1606 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1042 1 }
+	}
+
+	provinces = {
+		1042 1141 1572 1606 2800 2824 2845 2853
+	}
+}

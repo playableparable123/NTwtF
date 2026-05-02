@@ -1,0 +1,26 @@
+state = {
+	id = 1131
+	name = "STATE_1131"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = SAS
+		add_core_of = SAS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			352 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 352 1 }
+	}
+
+	provinces = {
+		352 1799 3162 3181
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 397
+	name = "STATE_397"
+	manpower = 225000
+	state_category = town
+	resources = {
+		tungsten = 2
+	}
+
+	history = {
+		owner = SUP
+		add_core_of = SUP
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 624 1 }
+	}
+
+	provinces = {
+		624 1511 2166
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 942
+	name = "STATE_942"
+	manpower = 375000
+	state_category = town
+
+	history = {
+		owner = YEE
+		add_core_of = YEE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 976 1 }
+	}
+
+	provinces = {
+		976 1824 2859 2862 2874
+	}
+}

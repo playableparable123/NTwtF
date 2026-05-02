@@ -1,0 +1,29 @@
+state = {
+	id = 948
+	name = "STATE_948"
+	manpower = 675000
+	state_category = town
+	resources = {
+		tungsten = 3
+	}
+
+	history = {
+		owner = MES
+		add_core_of = MES
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1013 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 90 1 }
+	}
+
+	provinces = {
+		90 351 915 1013 2852 2871 2872 2888 1895
+	}
+}

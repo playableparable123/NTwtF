@@ -1,0 +1,22 @@
+state = {
+	id = 959
+	name = "STATE_959"
+	manpower = 450000
+	state_category = town
+
+	history = {
+		owner = VES
+		add_core_of = VES
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 662 1 }
+	}
+
+	provinces = {
+		662 873 2879 2883 1698 244
+	}
+}

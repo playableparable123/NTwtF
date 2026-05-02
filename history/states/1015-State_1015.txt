@@ -1,0 +1,29 @@
+state = {
+	id = 1015
+	name = "STATE_1015"
+	manpower = 225000
+	state_category = town
+	resources = {
+		rubber = 7
+	}
+
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1780 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 437 1 }
+	}
+
+	provinces = {
+		437 1780 1871
+	}
+}

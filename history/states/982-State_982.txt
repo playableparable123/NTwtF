@@ -1,0 +1,26 @@
+state = {
+	id = 982
+	name = "STATE_982"
+	manpower = 450000
+	state_category = town
+
+	history = {
+		owner = VES
+		add_core_of = VES
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			408 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 408 1 }
+	}
+
+	provinces = {
+		408 483 2908 2916 1657 2914
+	}
+}

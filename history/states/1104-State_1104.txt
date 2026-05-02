@@ -1,0 +1,29 @@
+state = {
+	id = 1104
+	name = "STATE_1104"
+	manpower = 150000
+	state_category = town
+	resources = {
+		rubber = 2
+	}
+
+	history = {
+		owner = SSF
+		add_core_of = SSF
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1295 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1295 1 }
+	}
+
+	provinces = {
+		1295 1934
+	}
+}

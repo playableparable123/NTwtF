@@ -1,0 +1,26 @@
+state = {
+	id = 760
+	name = "STATE_760"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = GUR
+		add_core_of = GUR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			625 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 625 1 }
+	}
+
+	provinces = {
+		625 1420 2604
+	}
+}

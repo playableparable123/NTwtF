@@ -1,0 +1,22 @@
+state = {
+	id = 931
+	name = "STATE_931"
+	manpower = 300000
+	state_category = town
+
+	history = {
+		owner = MES
+		add_core_of = MES
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 371 1 }
+	}
+
+	provinces = {
+		371 1670 1685 2837
+	}
+}

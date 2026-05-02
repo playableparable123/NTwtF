@@ -1,0 +1,29 @@
+state = {
+	id = 858
+	name = "STATE_858"
+	manpower = 450000
+	state_category = town
+	resources = {
+		tungsten = 2
+	}
+
+	history = {
+		owner = GRA
+		add_core_of = GRA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1414 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 368 1 }
+	}
+
+	provinces = {
+		368 871 1414 2704 2736 2758
+	}
+}

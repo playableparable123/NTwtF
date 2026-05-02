@@ -1,0 +1,29 @@
+state = {
+	id = 972
+	name = "STATE_972"
+	manpower = 150000
+	state_category = town
+	resources = {
+		tungsten = 4
+	}
+
+	history = {
+		owner = VES
+		add_core_of = VES
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			630 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 630 1 }
+	}
+
+	provinces = {
+		630 1666
+	}
+}

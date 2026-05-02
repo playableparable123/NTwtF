@@ -1,0 +1,26 @@
+state = {
+	id = 976
+	name = "STATE_976"
+	manpower = 225000
+	state_category = town
+
+	history = {
+		owner = BAS
+		add_core_of = BAS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			171 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 171 1 }
+	}
+
+	provinces = {
+		171 1529 1933
+	}
+}

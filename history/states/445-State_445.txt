@@ -1,0 +1,29 @@
+state = {
+	id = 445
+	name = "STATE_445"
+	manpower = 150000
+	state_category = town
+	resources = {
+		oil = 5
+	}
+
+	history = {
+		owner = GUR
+		add_core_of = GUR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2222 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 995 1 }
+	}
+
+	provinces = {
+		995 2222
+	}
+}

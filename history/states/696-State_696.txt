@@ -1,0 +1,22 @@
+state = {
+	id = 696
+	name = "STATE_696"
+	manpower = 150000
+	state_category = town
+
+	history = {
+		owner = YEK
+		add_core_of = YEK
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 92 1 }
+	}
+
+	provinces = {
+		92 2501
+	}
+}

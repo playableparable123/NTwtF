@@ -1,0 +1,25 @@
+state = {
+	id = 817
+	name = "STATE_817"
+	manpower = 225000
+	state_category = town
+	resources = {
+		oil = 6
+	}
+
+	history = {
+		owner = KHA
+		add_core_of = KHA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+		}
+		victory_points = { 246 1 }
+	}
+
+	provinces = {
+		246 892 2682
+	}
+}

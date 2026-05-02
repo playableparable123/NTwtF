@@ -1,0 +1,26 @@
+state = {
+	id = 207
+	name = "STATE_207"
+	manpower = 150000
+	state_category = town
+
+	history = {
+		owner = SAM
+		add_core_of = SAM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			1171 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 1171 1 }
+	}
+
+	provinces = {
+		1171 3223
+	}
+}

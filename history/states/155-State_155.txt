@@ -1,0 +1,29 @@
+state = {
+	id = 155
+	name = "STATE_155"
+	manpower = 75000
+	state_category = town
+	resources = {
+		rubber = 7
+	}
+
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			3385 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 3385 1 }
+	}
+
+	provinces = {
+		3385
+	}
+}
