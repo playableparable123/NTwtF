@@ -4,12 +4,12 @@ state = {
 	manpower = 75000
 	state_category = town
 	resources = {
-		tungsten = 5
+		tungsten = 4
 	}
 
 	history = {
-		owner = SEO
-		add_core_of = SEO
+		owner = SAF
+		add_core_of = SAF
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

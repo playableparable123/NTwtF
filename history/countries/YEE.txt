@@ -1,4 +1,4 @@
-capital = 964
+capital = 914
 oob = "YEE_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

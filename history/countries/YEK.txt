@@ -1,4 +1,4 @@
-capital = 906
+capital = 649
 oob = "YEK_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

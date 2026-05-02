@@ -1,4 +1,4 @@
-capital = 1067
+capital = 1045
 oob = "SSF_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

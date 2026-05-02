@@ -1,4 +1,4 @@
-capital = 178
+capital = 1088
 oob = "LOM_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

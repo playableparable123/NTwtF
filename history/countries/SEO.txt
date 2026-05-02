@@ -1,4 +1,4 @@
-capital = 1092
+capital = 1005
 oob = "SEO_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

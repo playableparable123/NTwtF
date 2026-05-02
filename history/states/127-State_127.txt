@@ -8,8 +8,8 @@ state = {
 	}
 
 	history = {
-		owner = SEO
-		add_core_of = SEO
+		owner = UBI
+		add_core_of = UBI
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

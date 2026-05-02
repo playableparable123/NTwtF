@@ -3,6 +3,9 @@ state = {
 	name = "STATE_457"
 	manpower = 375000
 	state_category = town
+	resources = {
+		tungsten = 5
+	}
 
 	history = {
 		owner = MEQ

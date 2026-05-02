@@ -1,10 +1,26 @@
-state={
-	id=73
-	name="STATE_73"
-	provinces={
-		2400 
-	}
+state = {
+	id = 73
+	name = "STATE_73"
 	manpower = 10000
-    state_category = town
-	buildings_max_level_factor=1.000
+	state_category = town
+
+	history = {
+		owner = GUR
+		add_core_of = GUR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			2400 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 2400 1 }
+	}
+
+	provinces = {
+		2400
+	}
 }

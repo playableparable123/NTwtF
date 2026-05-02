@@ -1,4 +1,4 @@
-capital = 976
+capital = 901
 oob = "BAS_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

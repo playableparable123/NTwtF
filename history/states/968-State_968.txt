@@ -3,6 +3,9 @@ state = {
 	name = "STATE_968"
 	manpower = 750000
 	state_category = town
+	resources = {
+		tungsten = 3
+	}
 
 	history = {
 		owner = ORA

@@ -7,11 +7,4 @@ continents = {
 	asia
 	middle_east
 	default_continent
-	Mundi
-	Ilimaraa
-	Seol
-	Insulinde
-	Samara
-	Graad
-	Katla
 }

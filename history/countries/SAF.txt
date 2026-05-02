@@ -1,4 +1,4 @@
-capital = 1041
+capital = 1009
 oob = "SAF_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

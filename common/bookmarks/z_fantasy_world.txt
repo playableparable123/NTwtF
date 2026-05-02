@@ -4,30 +4,35 @@ bookmarks = {
 		desc = FANTASY_WORLD_BOOKMARK_DESC
 		date = 1936.1.1.12
 		picture = GFX_select_date_1936
-		default_country = "SEO"
+		default_country = "ARA"
 		default = yes
 
-		"SEO" = {
-			history = "SEO_BOOKMARK_DESC"
+		"ARA" = {
+			history = "ARA_BOOKMARK_DESC"
 			ideology = neutrality
 		}
-		"REV" = {
-			history = "REV_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"SUR" = {
-			history = "SUR_BOOKMARK_DESC"
+		"ARC" = {
+			history = "ARC_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
-		"VES" = {
-			history = "VES_BOOKMARK_DESC"
+		"ARE" = {
+			history = "ARE_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
-		"ORA" = {
-			history = "ORA_BOOKMARK_DESC"
+		"BAS" = {
+			history = "BAS_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"BOG" = {
+			history = "BOG_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"FAC" = {
+			history = "FAC_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
@@ -36,8 +41,38 @@ bookmarks = {
 			ideology = neutrality
 			minor = yes
 		}
-		"MES" = {
-			history = "MES_BOOKMARK_DESC"
+		"GRA" = {
+			history = "GRA_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"GUR" = {
+			history = "GUR_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"HIM" = {
+			history = "HIM_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"IGA" = {
+			history = "IGA_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"KED" = {
+			history = "KED_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"KEM" = {
+			history = "KEM_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"KHA" = {
+			history = "KHA_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
@@ -46,8 +81,53 @@ bookmarks = {
 			ideology = neutrality
 			minor = yes
 		}
+		"LEN" = {
+			history = "LEN_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"LOM" = {
+			history = "LOM_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
 		"MAT" = {
 			history = "MAT_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"MEQ" = {
+			history = "MEQ_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"MES" = {
+			history = "MES_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"NFD" = {
+			history = "NFD_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"ORA" = {
+			history = "ORA_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"REV" = {
+			history = "REV_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"SAF" = {
+			history = "SAF_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"SAM" = {
+			history = "SAM_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
@@ -61,28 +141,13 @@ bookmarks = {
 			ideology = neutrality
 			minor = yes
 		}
-		"KED" = {
-			history = "KED_BOOKMARK_DESC"
+		"SAS" = {
+			history = "SAS_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
-		"MEQ" = {
-			history = "MEQ_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"SUP" = {
-			history = "SUP_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"NFD" = {
-			history = "NFD_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"VAA" = {
-			history = "VAA_BOOKMARK_DESC"
+		"SAV" = {
+			history = "SAV_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
@@ -91,88 +156,8 @@ bookmarks = {
 			ideology = neutrality
 			minor = yes
 		}
-		"ARC" = {
-			history = "ARC_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"FAC" = {
-			history = "FAC_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"BOG" = {
-			history = "BOG_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"ARA" = {
-			history = "ARA_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"SSF" = {
-			history = "SSF_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"SAF" = {
-			history = "SAF_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"LOM" = {
-			history = "LOM_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"SAM" = {
-			history = "SAM_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"SAS" = {
-			history = "SAS_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"KEM" = {
-			history = "KEM_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"YUG" = {
-			history = "YUG_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"GRA" = {
-			history = "GRA_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"LEN" = {
-			history = "LEN_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"SOS" = {
-			history = "SOS_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"YEK" = {
-			history = "YEK_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"ZSI" = {
-			history = "ZSI_BOOKMARK_DESC"
-			ideology = neutrality
-			minor = yes
-		}
-		"IGA" = {
-			history = "IGA_BOOKMARK_DESC"
+		"SEO" = {
+			history = "SEO_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
@@ -181,8 +166,23 @@ bookmarks = {
 			ideology = neutrality
 			minor = yes
 		}
-		"KHA" = {
-			history = "KHA_BOOKMARK_DESC"
+		"SOS" = {
+			history = "SOS_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"SSF" = {
+			history = "SSF_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"SUP" = {
+			history = "SUP_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"SUR" = {
+			history = "SUR_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
@@ -196,8 +196,13 @@ bookmarks = {
 			ideology = neutrality
 			minor = yes
 		}
-		"BAS" = {
-			history = "BAS_BOOKMARK_DESC"
+		"VAA" = {
+			history = "VAA_BOOKMARK_DESC"
+			ideology = neutrality
+			minor = yes
+		}
+		"VES" = {
+			history = "VES_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
@@ -206,23 +211,23 @@ bookmarks = {
 			ideology = neutrality
 			minor = yes
 		}
-		"SAV" = {
-			history = "SAV_BOOKMARK_DESC"
+		"YEK" = {
+			history = "YEK_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
-		"HIM" = {
-			history = "HIM_BOOKMARK_DESC"
+		"YUG" = {
+			history = "YUG_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
-		"ARE" = {
-			history = "ARE_BOOKMARK_DESC"
+		"ZSI" = {
+			history = "ZSI_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}
-		"GUR" = {
-			history = "GUR_BOOKMARK_DESC"
+		"UBI" = {
+			history = "UBI_BOOKMARK_DESC"
 			ideology = neutrality
 			minor = yes
 		}

@@ -1,4 +1,4 @@
-capital = 761
+capital = 562
 oob = "ZSI_1936"
 set_research_slots = 3
 load_focus_tree = generic_focus

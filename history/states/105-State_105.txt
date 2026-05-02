@@ -1,10 +1,26 @@
-state={
-	id=105
-	name="STATE_105"
-	provinces={
-		3366 
-	}
+state = {
+	id = 105
+	name = "STATE_105"
 	manpower = 10000
-    state_category = town
-	buildings_max_level_factor=1.000
+	state_category = town
+
+	history = {
+		owner = ARA
+		add_core_of = ARA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			3366 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 3366 1 }
+	}
+
+	provinces = {
+		3366
+	}
 }

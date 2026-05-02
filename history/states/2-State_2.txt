@@ -1,10 +1,29 @@
-state={
-	id=2
-	name="STATE_2"
-	provinces={
-		3305 
-	}
+state = {
+	id = 2
+	name = "STATE_2"
 	manpower = 10000
-    state_category = town
-	buildings_max_level_factor=1.000
+	state_category = town
+	resources = {
+		tungsten = 6
+	}
+
+	history = {
+		owner = REV
+		add_core_of = REV
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			3305 = {
+				naval_base = 2
+			}
+		}
+		victory_points = { 3305 1 }
+	}
+
+	provinces = {
+		3305
+	}
 }
